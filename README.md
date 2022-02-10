@@ -22,6 +22,11 @@ The following the grc flowgraph used for reception using USRP blocks, the grc sc
 
 ![GNU Flowgraph](https://github.com/Dhruva-Ananth/IS1_Comissioning/blob/main/is1_RX.grc.png)
 
+Other than the flowgraph other external dependencies for the operations can be used and are as follows:
+1. [gr-gpredict-doppler](https://github.com/wnagele/gr-gpredict-doppler)
+2. [gr-ais](https://github.com/bistromath/gr-ais)
+3. [gr-kiss](https://github.com/daniestevez/gr-kiss)
+
 ## Beacon Packet Definition
 
 Once we receive the PDUs, the following the packet structure.
