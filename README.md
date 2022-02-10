@@ -14,7 +14,7 @@ It consists of 2 Payloads:
 |Frequency     |437.500 MHz          | 
 |Modulation    |GFSK                 | 
 |Baudrate  |9.6k                   | 
-|Framing       |AX.25/G3RUH          | 
+|Framing       |AX.25/G3RUH (Scrambler and GFSK decoder are swapped in order)          | 
 |Antenna       |Low-gain λ/4 monopole| 
 |Transmit power |1.75W (32.43 dBm)    | 
 
